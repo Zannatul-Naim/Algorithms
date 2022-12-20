@@ -8,6 +8,7 @@ CSE-2221 Design and Analysis of Algorithms
 |No. | Problem's Link | Solution Link |
 |:----:|:-----:|:-----:|
 | 1 | [Codeforces 22A](https://codeforces.com/problemset/problem/22/A) | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_22A.cpp)
+| 2 | [Codeforces 855A](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_855A.cpp) |
 
 # Greedy
 
