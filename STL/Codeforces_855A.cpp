@@ -11,43 +11,6 @@ void fastIO()
 	cout.tie(0);
 }
 
-int gcd(int a, int b)
-{
-	return b == 0 ? a : gcd(b, a % b);
-}
-
-int lcm(int a, int b)
-{
-	return (a * (b / gcd(a, b)));
-}
-
-bool isPrime(int n)
-{ // A number is Prime number or not.
-	if (n < 2)
-		return false;
-	for (int i = 0; i * i <= n; i++)
-	{
-		if (n % i == 0)
-			return false;
-	}
-	return true;
-}
-
-long long int factorial(int n)
-{
-	return n * factorial(n - 1);
-}
-
-ll bin_pow(int a, int n)
-{
-	if (n == 0)
-		return 1;
-	if (n == 1)
-		return a;
-	ll t = pow(a, n / 2);
-	return t * t * pow(a, n % 2);
-}
-
 void solve()
 {
 	int n;
