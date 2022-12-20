@@ -5,6 +5,10 @@ CSE-2221 Design and Analysis of Algorithms
 
 # STL
 
+|No. | Problem's Link | Solution Link |
+|:----:|:-----:|:-----:|
+| 1 | [Codeforces 22A](https://codeforces.com/problemset/problem/22/A) | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_22A.cpp)
+
 # Greedy
 
 |No. | Problem's Link | Solution Link |
