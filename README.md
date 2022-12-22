@@ -1,5 +1,5 @@
 # Algorithms
-CSE-2221 Design and Analysis of Algorithms
+CSE-2221 Design and Analysis of Algorithms <br>
 CSE-2222 Design and Analysis of Algorithms Lab
 
 ## Problems List
