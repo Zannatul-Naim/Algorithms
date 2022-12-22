@@ -16,6 +16,7 @@ CSE-2221 Design and Analysis of Algorithms
 |No. | Problem's Link | Tag | Solution Link |
 |:----:|:-----:|:---:|:-----:|
 | 1 | [35.Leetcode - Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_search_insert_position.cpp) |
+| 2 | [349.Leetcode - Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_intersection_of_two_arrays.cpp)
 
 # Greedy
 
