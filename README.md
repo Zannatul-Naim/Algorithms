@@ -8,9 +8,10 @@ CSE-2222 Design and Analysis of Algorithms Lab
 
 |No. | Problem's Link | Tag | Solution Link |
 |:----:|:-----:|:---:|:-----:|
-| 1 | [Codeforces 22A](https://codeforces.com/problemset/problem/22/A) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_22A.cpp) |
-| 2 | [Codeforces 855A](https://codeforces.com/problemset/problem/855/A)|  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_855A.cpp) |
-| 3 | [Codeforces 782A](https://codeforces.com/contest/782/problem/A) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_782A.cpp) |
+| 1 | [Codeforces 22A](https://codeforces.com/problemset/problem/22/A) | Set | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_22A.cpp) |
+| 2 | [Codeforces 855A](https://codeforces.com/problemset/problem/855/A)| Set | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_855A.cpp) |
+| 3 | [Codeforces 782A](https://codeforces.com/contest/782/problem/A) | Map | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_782A.cpp) |
+| 4 | [Codeforces 1228A](https://codeforces.com/contest/1228/problem/A) | Set | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/codeforces_1228A.cpp)
 
 # Searching
 
