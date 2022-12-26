@@ -12,6 +12,7 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 2 | [Codeforces 855A](https://codeforces.com/problemset/problem/855/A)| Set | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_855A.cpp) |
 | 3 | [Codeforces 782A](https://codeforces.com/contest/782/problem/A) | Map | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_782A.cpp) |
 | 4 | [Codeforces 1228A](https://codeforces.com/contest/1228/problem/A) | Set | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/codeforces_1228A.cpp)
+| 5 | [GeeksForGeeks - Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/0) | Set | [Solutoin](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/union_of_two_arrays.cpp) |
 | | | | |
 
 # Searching
