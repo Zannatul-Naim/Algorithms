@@ -35,9 +35,10 @@ CSE-2222 Design and Analysis of Algorithms Lab
 
 |No. | Problem's Link | Tag | Solution Link |
 |:----:|:-----:|:---:|:-----:|
-| 1 | [121.Leetcode - Buy and Sell Stocks I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leet_code_buy_and_sell_stock-I.cpp) |
-| 2 | [122.Leetcode - Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/862229173/) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leet_code_buy_and_sell_stock-II.cpp) |
+| 1 | [121. Leetcode - Buy and Sell Stocks I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_121.cpp) |
+| 2 | [122. Leetcode - Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/862229173/) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_122.cpp) |
 | 3 | [CSES - Movie Festival](https://cses.fi/problemset/task/1629) |  |[Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/cses_movie_festival-I.cpp) |
 | 4 | [USACO - Mad Scientist](http://www.usaco.org/index.php?page=viewproblem2&cpid=1012) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/usaco_mad_scientist.cpp) |
+| 5 | [2244. Leetcode - Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_2244.cpp)|
 | | [Name]() | | [Solution]()|
 
