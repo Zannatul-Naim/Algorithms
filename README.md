@@ -40,5 +40,6 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 3 | [CSES - Movie Festival](https://cses.fi/problemset/task/1629) |  |[Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/cses_movie_festival-I.cpp) |
 | 4 | [USACO - Mad Scientist](http://www.usaco.org/index.php?page=viewproblem2&cpid=1012) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/usaco_mad_scientist.cpp) |
 | 5 | [2244. Leetcode - Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_2244.cpp)|
+| 6 | [452. Leetcode - Minimum Number of Arrows to Burst Balloons]() | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_452.cpp)|
 | | [Name]() | | [Solution]()|
 
