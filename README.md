@@ -41,5 +41,5 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 4 | [USACO - Mad Scientist](http://www.usaco.org/index.php?page=viewproblem2&cpid=1012) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/usaco_mad_scientist.cpp) |
 | 5 | [2244. Leetcode - Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_2244.cpp)|
 | 6 | [452. Leetcode - Minimum Number of Arrows to Burst Balloons]() | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_452.cpp)|
-| | [Name]() | | [Solution]()|
+| 7 | [1833. Leetcode - Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_1833.cpp)|
 
