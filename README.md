@@ -42,4 +42,5 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 5 | [2244. Leetcode - Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_2244.cpp)|
 | 6 | [452. Leetcode - Minimum Number of Arrows to Burst Balloons]() | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_452.cpp)|
 | 7 | [1833. Leetcode - Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_1833.cpp)|
+| 8 | [134. Leetcode - Gas Station](https://leetcode.com/problems/gas-station/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_134.cpp)|
 
