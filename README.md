@@ -52,5 +52,5 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | | [172. Leetcode - Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/leetcode_172.cpp)|
 | | [GeeksForGeeks: Trailing Zeros in Factorials](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/0) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_trailing_zeros_in_factorial.cpp)|
 | | [GeeksforGeeks: Power of two numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_power_of_numbers.cpp)|
-| | [Name]() | | [Solution]()|
+| | [LightOJ: Digits of Factorial](https://lightoj.com/problem/digits-of-factorial) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/lightoj_digits_of_factorial.cpp)|
 | | [Name]() | | [Solution]()|
