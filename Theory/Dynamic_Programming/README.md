@@ -9,13 +9,14 @@ Dynamic Programming is an algorithmic paradigm that solves a given complex probl
 
 Consider the following mathematical function:
 
-$$ f(n) = f(n-1) + f(n-2), where n >= 2 $$
-
-$$ f(1) = 1 $$
-
-$$ f(0) = 0 $$
-
-
+ <div align="center">
+    
+$f(n) = f(n-1) + f(n-2), where {n} >= 2$
+    
+$f(1) = 1$
+$f(0) = 0$
+</div>
+    
 <b> Fibonacci series: </b>a series of numbrs in which each number (Fibonacci number) is the sum of the two prededing numbers.
 
 $$ f(n) = \\{0, 1, 1, 2, 3, 5, 8, 13, 21, ... \\} $$
