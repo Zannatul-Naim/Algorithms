@@ -43,4 +43,14 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 6 | [452. Leetcode - Minimum Number of Arrows to Burst Balloons]() | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_452.cpp)|
 | 7 | [1833. Leetcode - Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_1833.cpp)|
 | 8 | [134. Leetcode - Gas Station](https://leetcode.com/problems/gas-station/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_134.cpp)|
+| | [Name]() | | [Solution]()|
 
+# Math
+
+|No. | Problem's Link | Tag | Solution Link |
+|:----:|:-----:|:---:|:-----:|
+| | [172. Leetcode - Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/leetcode_172.cpp)|
+| | [GeeksForGeeks: Trailing Zeros in Factorials](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/0) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_trailing_zeros_in_factorial.cpp)|
+| | [GeeksforGeeks: Power of two numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_power_of_numbers.cpp)|
+| | [Name]() | | [Solution]()|
+| | [Name]() | | [Solution]()|
