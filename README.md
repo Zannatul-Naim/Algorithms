@@ -29,6 +29,8 @@ CSE-2222 Design and Analysis of Algorithms Lab
 |:----:|:-----:|:---:|:-----:|
 | 1 | [35.Leetcode - Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_search_insert_position.cpp) |
 | 2 | [349.Leetcode - Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_intersection_of_two_arrays.cpp) |
+| 3 | [69. Leetcode - Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_sqrt(x).cpp)|
+| | [Name]() | | [Solution]()|
 | | [Name]() | | [Solution]()|
 
 # Greedy
@@ -49,8 +51,8 @@ CSE-2222 Design and Analysis of Algorithms Lab
 
 |No. | Problem's Link | Tag | Solution Link |
 |:----:|:-----:|:---:|:-----:|
-| | [172. Leetcode - Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/leetcode_172.cpp)|
-| | [GeeksForGeeks: Trailing Zeros in Factorials](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/0) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_trailing_zeros_in_factorial.cpp)|
-| | [GeeksforGeeks: Power of two numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_power_of_numbers.cpp)|
-| | [LightOJ: Digits of Factorial](https://lightoj.com/problem/digits-of-factorial) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/lightoj_digits_of_factorial.cpp)|
-| | [Codeforces 1765A](https://codeforces.com/problemset/problem/1765/M) | Number theory | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/codeforces_1765M.cpp)|
+| 1 | [172. Leetcode - Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/leetcode_172.cpp)|
+| 2 | [GeeksForGeeks: Trailing Zeros in Factorials](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/0) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_trailing_zeros_in_factorial.cpp)|
+| 3 | [GeeksforGeeks: Power of two numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_power_of_numbers.cpp)|
+| 4 | [LightOJ: Digits of Factorial](https://lightoj.com/problem/digits-of-factorial) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/lightoj_digits_of_factorial.cpp)|
+| 5 | [Codeforces 1765A](https://codeforces.com/problemset/problem/1765/M) | Number theory | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/codeforces_1765M.cpp)|
