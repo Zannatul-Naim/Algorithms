@@ -30,7 +30,7 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 1 | [35.Leetcode - Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_search_insert_position.cpp) |
 | 2 | [349.Leetcode - Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_intersection_of_two_arrays.cpp) |
 | 3 | [69. Leetcode - Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_sqrt(x).cpp)|
-| | [Name]() | | [Solution]()|
+| | [278. Leetcode - First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_first_bad_version.cpp)|
 | | [Name]() | | [Solution]()|
 
 # Greedy
