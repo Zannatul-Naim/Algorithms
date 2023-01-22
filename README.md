@@ -65,4 +65,5 @@ CSE-2222 Design and Analysis of Algorithms Lab
 |No. | Problem's Link | Tag | Solution Link |
 |:----:|:-----:|:---:|:-----:|
 | 1 | [InterviewBit: Connected Components](https://www.interviewbit.com/problems/connected-components/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/InterviewBit_connected_components.cpp)|
+| 2 | [102. Leetcode - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/leet_code_binary_tree_level_order_traversal.cpp)|
 | | [Name]() | | [Solution]()|
