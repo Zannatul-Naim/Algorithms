@@ -56,5 +56,13 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 3 | [GeeksforGeeks: Power of two numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_power_of_numbers.cpp)|
 | 4 | [LightOJ: Digits of Factorial](https://lightoj.com/problem/digits-of-factorial) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/lightoj_digits_of_factorial.cpp)|
 | 5 | [Codeforces 1765A](https://codeforces.com/problemset/problem/1765/M) | Number theory | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/codeforces_1765M.cpp)|
-| | [Kattis: Inverse Factorial](https://open.kattis.com/problems/inversefactorial) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/kattis_inverseFactorial.cpp)|
+| 6 | [Kattis: Inverse Factorial](https://open.kattis.com/problems/inversefactorial) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/kattis_inverseFactorial.cpp)|
+| | [Name]() | | [Solution]()|
+
+
+# Graph
+
+|No. | Problem's Link | Tag | Solution Link |
+|:----:|:-----:|:---:|:-----:|
+| 1 | [InterviewBit: Connected Components](https://www.interviewbit.com/problems/connected-components/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/InterviewBit_connected_components.cpp)|
 | | [Name]() | | [Solution]()|
