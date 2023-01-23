@@ -67,4 +67,5 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 1 | [InterviewBit: Connected Components](https://www.interviewbit.com/problems/connected-components/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/InterviewBit_connected_components.cpp)|
 | 2 | [102. Leetcode - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/leet_code_binary_tree_level_order_traversal.cpp)|
 | 3 | [HackerEarth: Level Nodes](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/hackerEarth_level_nodes.cpp)|
+| 4 | [InterviewBit: Cycle in Directed Graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/InterviewBit_cycle_in_directed_graph.cpp)|
 | | [Name]() | | [Solution]()|
