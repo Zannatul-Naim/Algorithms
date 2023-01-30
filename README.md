@@ -70,5 +70,5 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 4 | [InterviewBit: Cycle in Directed Graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/) | bfs, kahn's| [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/InterviewBit_cycle_in_directed_graph.cpp)|
 | 5 | [1971. Leetcode - Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/leetcode_find_if_path_exists_in_graph.cpp)|
 | 6 | [104. Leetcode - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/leetcode_maximum_depth_of_binary_tree.cpp)|
-| | [Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | dfs | [Solution](https://github.com/Zannatul-Naim/DSA-Practice/blob/main/Graph/atcoder_path_graph.cpp)|
+| 7 | [Atcoder - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | dfs | [Solution](https://github.com/Zannatul-Naim/DSA-Practice/blob/main/Graph/atcoder_path_graph.cpp)|
 | | [Name]() | | [Solution]()|
