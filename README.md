@@ -71,4 +71,6 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 5 | [1971. Leetcode - Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/leetcode_find_if_path_exists_in_graph.cpp)|
 | 6 | [104. Leetcode - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/leetcode_maximum_depth_of_binary_tree.cpp)|
 | 7 | [Atcoder - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | dfs | [Solution](https://github.com/Zannatul-Naim/DSA-Practice/blob/main/Graph/atcoder_path_graph.cpp)|
+| 8 | [HackerEarth: Unreachable Nodes](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/hackerEarth_unreachable_nodes.cpp)|
+| | [Name]() | | [Solution]()|
 | | [Name]() | | [Solution]()|
