@@ -7,7 +7,7 @@ CSE-2222 Design and Analysis of Algorithms Lab
 # STL
 
 |No. | Problem's Link | Tag | Solution Link |
-|:----:|:-----:|:---:|:-----:|
+|:----:|:-----|:---:|:-----:|
 | 1 | [Codeforces 22A](https://codeforces.com/problemset/problem/22/A) | Set | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_22A.cpp) |
 | 2 | [Codeforces 855A](https://codeforces.com/problemset/problem/855/A)| Set | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_855A.cpp) |
 | 3 | [Codeforces 782A](https://codeforces.com/contest/782/problem/A) | Map | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_782A.cpp) |
@@ -19,14 +19,14 @@ CSE-2222 Design and Analysis of Algorithms Lab
 # Brute Force
 
 |No. | Problem's Link | Tag | Solution Link |
-|:----:|:-----:|:---:|:-----:|
+|:----:|:-----|:---:|:-----:|
 | 1 |[Codeforces 17A](https://codeforces.com/problemset/problem/17/A)| Brute Force, Number theory|[Soluton](https://github.com/Zannatul-Naim/Algorithms/blob/main/BruteForce/codeforces_17A.cpp)|
 | | [Name]() | | [Solution]()|
 
 # Searching
 
 |No. | Problem's Link | Tag | Solution Link |
-|:----:|:-----:|:---:|:-----:|
+|:----:|:-----|:---:|:-----:|
 | 1 | [35.Leetcode - Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_search_insert_position.cpp) |
 | 2 | [349.Leetcode - Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_intersection_of_two_arrays.cpp) |
 | 3 | [69. Leetcode - Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Binary Search | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Searching/leet_code_sqrt(x).cpp)|
@@ -36,7 +36,7 @@ CSE-2222 Design and Analysis of Algorithms Lab
 # Greedy
 
 |No. | Problem's Link | Tag | Solution Link |
-|:----:|:-----:|:---:|:-----:|
+|:----:|:-----|:---:|:-----:|
 | 1 | [121. Leetcode - Buy and Sell Stocks I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_121.cpp) |
 | 2 | [122. Leetcode - Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/862229173/) |  | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/leetcode_122.cpp) |
 | 3 | [CSES - Movie Festival](https://cses.fi/problemset/task/1629) |  |[Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Greedy/cses_movie_festival-I.cpp) |
@@ -50,7 +50,7 @@ CSE-2222 Design and Analysis of Algorithms Lab
 # Math
 
 |No. | Problem's Link | Tag | Solution Link |
-|:----:|:-----:|:---:|:-----:|
+|:----:|:-----|:---:|:-----:|
 | 1 | [172. Leetcode - Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/leetcode_172.cpp)|
 | 2 | [GeeksForGeeks: Trailing Zeros in Factorials](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/0) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_trailing_zeros_in_factorial.cpp)|
 | 3 | [GeeksforGeeks: Power of two numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Math/gfg_power_of_numbers.cpp)|
@@ -63,7 +63,7 @@ CSE-2222 Design and Analysis of Algorithms Lab
 # Graph
 
 |No. | Problem's Link | Tag | Solution Link |
-|:----:|:-----:|:---:|:-----:|
+|:----:|:-----|:---:|:-----:|
 | 1 | [InterviewBit: Connected Components](https://www.interviewbit.com/problems/connected-components/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/InterviewBit_connected_components.cpp)|
 | 2 | [102. Leetcode - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/leetcode_binary_tree_level_order_traversal.cpp)|
 | 3 | [HackerEarth: Level Nodes](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/) | bfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/hackerEarth_level_nodes.cpp)|
