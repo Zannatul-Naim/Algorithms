@@ -86,4 +86,5 @@ CSE-2222 Design and Analysis of Algorithms Lab
 |No. | Problem's Link | Tag | Solution Link |
 |:----:|:-----|:---:|:-----:|
 | 1 | [28. Leetcode - Find the Index of the First Occurrence in a String]() | Rabin karp | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/leetcode_28.cpp)|
+| 2 | [415. Leetcode - Add Strings](https://leetcode.com/problems/add-strings/description/) | string | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/leetcode_415.cpp)|
 | | [Name]() | | [Solution]()|
