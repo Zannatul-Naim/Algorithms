@@ -80,3 +80,10 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 8 | [HackerEarth: Unreachable Nodes](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/) | dfs | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/hackerEarth_unreachable_nodes.cpp)|
 | 9 | [HackerEarth: Travelling Alex](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/travelling-alex-c5660424/) |  dfs| [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Graph/hackerEarth_travelling_alex.cpp)|
 | | [Name]() | | [Solution]()|
+
+# String Processing
+
+|No. | Problem's Link | Tag | Solution Link |
+|:----:|:-----|:---:|:-----:|
+| 1 | [28. Leetcode - Find the Index of the First Occurrence in a String]() | Rabin karp | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/leetcode_28.cpp)|
+| | [Name]() | | [Solution]()|
