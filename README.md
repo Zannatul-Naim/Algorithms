@@ -23,6 +23,13 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 1 |[Codeforces 17A](https://codeforces.com/problemset/problem/17/A)| Brute Force, Number theory|[Soluton](https://github.com/Zannatul-Naim/Algorithms/blob/main/BruteForce/codeforces_17A.cpp)|
 | | [Name]() | | [Solution]()|
 
+# Geometry
+
+|No. | Problem's Link | Tag | Solution Link |
+|:----:|:-----|:---:|:-----:|
+| 1 | [Codeforces 749B](https://codeforces.com/problemset/problem/749/B) | geometry | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Geometry/codeforces_749B.cpp)|
+| | [Name]() | | [Solution]()|
+
 # [BitMasking](https://github.com/Zannatul-Naim/Algorithms/tree/main/BitMasks)
 
 |No. | Problem's Link | Tag | Solution Link |
