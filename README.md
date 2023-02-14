@@ -96,4 +96,5 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 2 | [415. Leetcode - Add Strings](https://leetcode.com/problems/add-strings/description/) | string | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/leetcode_415.cpp)|
 | 3 | [Codeforces 1791D](https://codeforces.com/contest/1791/problem/D) | string | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/codeforces_1791D.cpp)|
 | 4 | [28. Leetcode - Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | kmp | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/leetcode_28_kmp.cpp)|
+| 5 | [Codeforces 1616B](https://codeforces.com/contest/1616/problem/B) | string | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/codeforces_1616B.cpp)|
 | | [Name]() | | [Solution]()|
