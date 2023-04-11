@@ -29,7 +29,7 @@ CSE-2222 Design and Analysis of Algorithms Lab
 |:----:|:-----|:---:|:-----:|
 | 1 | [Codeforces 749B](https://codeforces.com/problemset/problem/749/B) | geometry | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Geometry/codeforces_749B.cpp)|
 | 2 | [CSES 2189 Point Location Test ]() | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Geometry/cses_2189_point_location_test.cpp)|
-| | [CSES 2190 Line Segment Intersection ]() | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Geometry/cses_2190_line_segment_intersection.cpp)|
+| 3 | [CSES 2190 Line Segment Intersection ]() | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Geometry/cses_2190_line_segment_intersection.cpp)|
 
 # [BitMasking](https://github.com/Zannatul-Naim/Algorithms/tree/main/BitMasks)
 
@@ -99,4 +99,11 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 4 | [28. Leetcode - Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | kmp | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/leetcode_28_kmp.cpp)|
 | 5 | [Codeforces 1616B](https://codeforces.com/contest/1616/problem/B) | string | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/codeforces_1616B.cpp)|
 | 6 | [Codeforces 1473B](https://codeforces.com/problemset/problem/1473/B) | string | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/codeforces_1473B.cpp)|
+| | [Name]() | | [Solution]()|
+
+# Disjoint Set Union
+
+|No. | Problem's Link | Tag | Solution Link |
+|:----:|:-----|:---:|:-----:|
+| 1 | [UVa 459 Graph Connectivity](https://onlinejudge.org/external/4/459.pdf) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/DSU/uva_459_graph_connectivity.cpp)|
 | | [Name]() | | [Solution]()|
