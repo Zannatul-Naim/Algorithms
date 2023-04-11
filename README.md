@@ -23,12 +23,13 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 1 |[Codeforces 17A](https://codeforces.com/problemset/problem/17/A)| Brute Force, Number theory|[Soluton](https://github.com/Zannatul-Naim/Algorithms/blob/main/BruteForce/codeforces_17A.cpp)|
 | | [Name]() | | [Solution]()|
 
-# Geometry
+# Computational Geometry
 
 |No. | Problem's Link | Tag | Solution Link |
 |:----:|:-----|:---:|:-----:|
 | 1 | [Codeforces 749B](https://codeforces.com/problemset/problem/749/B) | geometry | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Geometry/codeforces_749B.cpp)|
-| | [Name]() | | [Solution]()|
+| 2 | [CSES 2189 Point Location Test ]() | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Geometry/cses_2189_point_location_test.cpp)|
+| | [CSES 2190 Line Segment Intersection ]() | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Geometry/cses_2190_line_segment_intersection.cpp)|
 
 # [BitMasking](https://github.com/Zannatul-Naim/Algorithms/tree/main/BitMasks)
 
