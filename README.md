@@ -107,3 +107,12 @@ CSE-2222 Design and Analysis of Algorithms Lab
 |:----:|:-----|:---:|:-----:|
 | 1 | [UVa 459 Graph Connectivity](https://onlinejudge.org/external/4/459.pdf) | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/DSU/uva_459_graph_connectivity.cpp)|
 | | [Name]() | | [Solution]()|
+
+# Square Root Decomposition
+
+|No. | Problem's Link | Tag | Solution Link |
+|:----:|:-----|:---:|:-----:|
+| 1 | [CSES 1650 Range XOR Queries](https://cses.fi/problemset/task/1650) | Range Query | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Square_Root_Decomposition/Range_xor_queries.cpp)|
+| 2 | [CSES 1647 Static Range Minimum Queries](https://cses.fi/problemset/task/1647) | Range Query | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Square_Root_Decomposition/Static_range_minimum_queries.cpp)|
+| 3 | [CSES 1648 Static Range Sum Queries](https://cses.fi/problemset/task/1648) | Range Query | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Square_Root_Decomposition/Static_range_sum_queries.cpp)|
+| | [Name]() | | [Solution]()|
