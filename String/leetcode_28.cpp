@@ -35,3 +35,43 @@ public:
      return -1;
     }
 };
+
+
+/*
+
+class Solution {
+public:
+    int strStr(string text, string pat) {
+        
+        long long MOD = 1e9+7, n, m, d = 26;
+
+        n = text.size();
+        m = pat.size();
+
+        long long hash = 1;
+
+        for(int i = 0; i < m-1; i++) {
+            hash = (hash*d)%MOD;
+        }
+        long long pattern_hash_val = 0, text_hash_partial = 0;
+        for(int i = 0; i < m; i++) {
+            pattern_hash_val = (d * pattern_hash_val + pat[i]) % MOD;
+            text_hash_partial = (d * text_hash_partial + text[i]) % MOD;
+        }
+
+        for(int i = 0; i <= n-m; i++) {
+
+            if(pattern_hash_val == text_hash_partial) {
+                return i;
+            }
+            if(i < n-m) {
+                text_hash_partial = (d * (text_hash_partial - text[i]*hash) + text[i+m]) %MOD;
+
+                if( text_hash_partial < 0) text_hash_partial += MOD;
+            }
+        }
+        return -1;
+    }
+};
+
+*/
