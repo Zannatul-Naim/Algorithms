@@ -37,34 +37,27 @@ void quick_sort(int a[], int l, int h) {
 }
 
 void print(int a[], int n) {
-    for(int i = 0; i < n; i++) cout << a[i] << " ";
-    cout << endl;
+	for(int i = 0; i < n; i++) cout << a[i] << " ";
+	cout << endl;
 }
 
 void solve() {
 
 	int n;
-    	cin >> n;
+	cin >> n;
 
-    int a[n];
-    for(int i = 0; i < n; i++) cin >> a[i];
+	int a[n];
+	for(int i = 0; i < n; i++) cin >> a[i];
 
-    print(a, n);
-    quick_sort(a, 0, n);
-    print(a, n);
+	print(a, n);
+	quick_sort(a, 0, n);
+	print(a, n);
 
 }	
 
 int main() {
 
-	fastIO();
-
-	int t = 1;
-	// cin >> t;
-
-	while(t--) {
-	  solve();
-	}
+	solve();
 
 	return 0;
 }
