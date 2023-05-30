@@ -44,15 +44,13 @@ void print(int a[], int n) {
 void solve() {
 
 	int n;
-    cin >> n;
+    	cin >> n;
 
-    int a[n+1];
-    a[n] = 1e9+7;
-
+    int a[n];
     for(int i = 0; i < n; i++) cin >> a[i];
-  
+
     print(a, n);
-    quick_sort(a, 0, n+1);
+    quick_sort(a, 0, n);
     print(a, n);
 
 }	
