@@ -16,6 +16,14 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 6 | [Codeforces 903C](https://codeforces.com/problemset/problem/903/C) | Map/Greedy | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/STL/Codeforces_903C.cpp)|
 | | [Name]() | | [Solution]()|
 
+# Sorting
+
+|No. | NAME |
+|:----:|:-----:|
+| 1 | [INSERTION SORT](https://github.com/Zannatul-Naim/Algorithms/blob/main/Sorting/INSERTION_SORT.cpp) | 
+| 2 | [SELECTION SORT](https://github.com/Zannatul-Naim/Algorithms/blob/main/Sorting/SELECTION_SORT.cpp) | 
+| 3 | [COUNTING SORT](https://github.com/Zannatul-Naim/Algorithms/blob/main/Sorting/COUNTING_SORT.cpp) | 
+
 # Brute Force
 
 |No. | Problem's Link | Tag | Solution Link |
