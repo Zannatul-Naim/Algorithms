@@ -19,7 +19,7 @@ CSE-2222 Design and Analysis of Algorithms Lab
 # Sorting
 
 |No. | NAME |
-|:----:|:-----:|
+|:----:|:-----|
 | 1 | [INSERTION SORT](https://github.com/Zannatul-Naim/Algorithms/blob/main/Sorting/INSERTION_SORT.cpp) | 
 | 2 | [SELECTION SORT](https://github.com/Zannatul-Naim/Algorithms/blob/main/Sorting/SELECTION_SORT.cpp) | 
 | 3 | [COUNTING SORT](https://github.com/Zannatul-Naim/Algorithms/blob/main/Sorting/COUNTING_SORT.cpp) | 
