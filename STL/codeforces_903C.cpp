@@ -25,7 +25,6 @@ void solve() {
 
 int main()
 {
-	fastIO();
 	
 	solve();
 
