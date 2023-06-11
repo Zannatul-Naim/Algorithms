@@ -4,15 +4,7 @@ using namespace std;
 
 #define ll long long
 #define endl "\n"
-#define input cin >>
-#define output cout <<
-#define pb push_back
 
-void fastIO() {
-	ios_base::sync_with_stdio(false);
-	cin.tie(0);
-	cout.tie(0);
-}
 void solve() {
   
   ll n;
@@ -42,7 +34,6 @@ void solve() {
 
 int main()
 {
-	fastIO();
 	int t;
 	cin >> t;
 
