@@ -4,12 +4,6 @@ using namespace std;
 #define ll long long
 #define endl "\n"
 
-void fastIO() {
-	ios_base::sync_with_stdio(false);
-	cin.tie(0);
-	cout.tie(0);
-}
-
 bool checkIsDistinct(int n) {
   int digit = log10(n) + 1;
   set<int>s;
@@ -38,7 +32,6 @@ void solve() {
 
 int main()
 {
-	fastIO();
 
 	solve();
 
