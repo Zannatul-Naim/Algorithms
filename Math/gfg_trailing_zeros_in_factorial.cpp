@@ -1,19 +1,14 @@
 class Solution
 {
 public:
-    int trailingZeroes(int n)
+    int trailingZeroes(int N)
     {
-        // Write Your Code here
-        
-        int i = 1;
-        int ans = 0;
-        int x = pow(5, i);
+        int ans = 0, x = 5;
         
         do {
-            ans += n / x;
-            i++;
-            x = pow(5, i);
-        } while(n/x);
+           ans += (N / x);
+           x *= 5;
+        } while(N / x);
         
         return ans;
     }
