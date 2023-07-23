@@ -112,6 +112,12 @@ CSE-2222 Design and Analysis of Algorithms Lab
 | 6 | [Codeforces 1473B](https://codeforces.com/problemset/problem/1473/B) | string | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/String/codeforces_1473B.cpp)|
 | | [Name]() | | [Solution]()|
 
+#[Backtracking](https://github.com/Zannatul-Naim/Algorithms/tree/main/Backtracking)
+
+|No. | Problem's Link | Tag | Solution Link |
+|:----:|:-----|:---:|:-----:|
+| | [Name]() | | [Solution]()|
+
 # Disjoint Set Union
 
 |No. | Problem's Link | Tag | Solution Link |
