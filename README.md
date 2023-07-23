@@ -116,7 +116,7 @@ CSE-2222 Design and Analysis of Algorithms Lab
 
 |No. | Problem's Link | Tag | Solution Link |
 |:----:|:-----|:---:|:-----:|
-| 1 | [All Possible permutation]() | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Backtracking/All_possible_permutation.cpp)|
+| 1 | All Possible permutation | | [Solution](https://github.com/Zannatul-Naim/Algorithms/blob/main/Backtracking/All_possible_permutation.cpp)|
 
 # Disjoint Set Union
 
